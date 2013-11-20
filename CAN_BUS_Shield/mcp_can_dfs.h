@@ -255,9 +255,9 @@
 #define MCP_16MHz_200kBPS_CFG2 (0xba)
 #define MCP_16MHz_200kBPS_CFG3 (0x07)
 
-#define MCP_16MHz_125kBPS_CFG1 (0x01)
-#define MCP_16MHz_125kBPS_CFG2 (0xba)
-#define MCP_16MHz_125kBPS_CFG3 (0x07)
+#define MCP_16MHz_125kBPS_CFG1 (0x03)
+#define MCP_16MHz_125kBPS_CFG2 (0xac)
+#define MCP_16MHz_125kBPS_CFG3 (0x03)
 
 #define MCP_16MHz_100kBPS_CFG1 (0x03)
 #define MCP_16MHz_100kBPS_CFG2 (0xba)
